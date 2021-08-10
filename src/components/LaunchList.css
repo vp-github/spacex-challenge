@@ -1,0 +1,33 @@
+.formClass {
+  float: right;
+}
+.dropdownClass {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.tableHeadClass {
+  background: rgb(245, 245, 245);
+  padding: 0px !important;
+}
+.pagination {
+  float: right;
+  margin-bottom: 25px;
+}
+.filterIcon {
+  width: 20px;
+  height: 15px;
+}
+.tableClass {
+  margin-bottom: 25px;
+}
+.rowClass {
+  cursor: grabbing;
+}
+.errorMessage {
+  text-align: center !important;
+}
+.badgeClass {
+  text-align: center !important;
+  padding-right: 75px !important;
+}

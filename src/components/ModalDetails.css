@@ -1,0 +1,40 @@
+.imageClass {
+  width: 90px;
+  height: 80px;
+}
+.titleDiv {
+  display: flex;
+}
+.nasaIcon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.wikiIcon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.youIcon {
+  width: 20px;
+  height: 20px;
+}
+.iconDiv {
+  width: 100px;
+  height: 40px;
+}
+.dispDiv {
+  margin-left: 40px;
+  display: flex;
+  flex-direction: column;
+}
+.badgeDiv {
+  margin-left: 30px;
+}
+.listClass {
+  margin-top: 30px;
+}
+.wikiFont {
+  color: blue;
+  text-decoration: none;
+}

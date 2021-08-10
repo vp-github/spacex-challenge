@@ -1,0 +1,13 @@
+.upcomingClass span {
+  color: #92400f;
+  background: #fef3c7 !important;
+}
+.successClass span {
+  color: #03543f;
+  background: #def7ec !important;
+}
+
+.failureClass span {
+  background: #981b1c;
+  background: #fde2e1 !important;
+}
